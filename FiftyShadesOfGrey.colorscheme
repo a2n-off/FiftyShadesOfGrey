@@ -41,7 +41,7 @@ Color=106,106,106
 Color=0,255,0
 
 [Color3Intense]
-Color=176,176,176
+Color=208,208,208
 
 [Color4]
 Color=189,189,189
@@ -91,6 +91,6 @@ Color=120,120,120
 [General]
 Blur=false
 ColorRandomization=false
-Description=grey
+Description=Fifty Shade of Grey
 Opacity=1
 Wallpaper=
